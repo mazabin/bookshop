@@ -1,0 +1,6 @@
+host: 'localhost'
+adapter: 'postgresql'
+encoding: utf-8
+database: 'bookshop'
+user: 'postgres'
+pass: 'gu410'
